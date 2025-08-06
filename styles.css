@@ -32,7 +32,7 @@ a {
 .btn:hover {
     background: #ff5252;
     transform: translateY(-3px);
-    box-shadow: 0 5px 15px rgba(255, 107, 107, 0.3);
+    box-shadow: 0 5px 6px rgba();
 }
 
 h2 {
@@ -387,4 +387,5 @@ footer {
     .hero p {
         font-size: 1rem;
     }
+
 }
